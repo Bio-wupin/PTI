@@ -70,6 +70,8 @@ Python 3.7.4
 
 ### License
 
+MIT License
+
 ### Support
 
 For help running the program or any questions/suggestions/bug reports, please contact zhangly@shanghaitech.edu.cn
