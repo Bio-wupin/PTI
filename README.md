@@ -18,7 +18,7 @@ PTI has only one parameter to set.
 
 `-i <arg>` Input file path (required)
 
-`-o <arg>` Output file path where the results should be written.
+`-o <arg>` Output file path where the results should be written (required)
 
 ### Input File Types
 
